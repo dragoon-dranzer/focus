@@ -1,8 +1,11 @@
 [https://pdfget.com/](https://pdfget.com/)
 
 http://libgen.io/ 
+
 http://libgen.rs/ 
+
 https://b-ok.org/ 
+
 https://forum.mobilism.org/index.php?sid=6e7ceb3ef56a5db1a65753e70439b15b 
 https://booksc.org/
 https://filechef.com
