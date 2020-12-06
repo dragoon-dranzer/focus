@@ -1,1 +1,1 @@
-[this is link](https://pdfget.com/)
+[](https://pdfget.com/)
